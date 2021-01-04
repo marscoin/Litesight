@@ -3,7 +3,7 @@
 *Marssight* is an open-source Marscoin blockchain explorer with complete REST and websocket APIs based on Litesight.
 Litesight runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
 
-Check some screenshots and more details at [litesight's project homepage](https://github.com/marscoin/Litesight).
+For a live version see [Marscoin explorer's homepage](http://explore.marscoin.org/).
 
 *Marssight* project is now split in two repositories. One for the [API](https://github.com/marscoin/Litesight-api)
 and for the front-end. This repository is for the front-end, which will install the API as a NPM dependency.
